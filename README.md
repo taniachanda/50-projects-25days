@@ -1,1 +1,1 @@
-# Fiftty-projects-in-fifteen-days
+# 50-projects-in-25-days
